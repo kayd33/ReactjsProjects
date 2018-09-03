@@ -2,4 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a very basic Todo adding and removing app.
 
-Check it out [here](Todo-1.surge.sh)
+Check it out [here](https://Todo-1.surge.sh)
